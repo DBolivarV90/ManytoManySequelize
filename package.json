@@ -1,0 +1,22 @@
+{
+  "name": "sequelizemanytomany",
+  "version": "1.0.0",
+  "description": "relations many to many in mysql used sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "sequelize",
+    "many-to-many",
+    "associations",
+    "relationship"
+  ],
+  "author": "Diego Bolivar",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
+  }
+}
